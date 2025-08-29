@@ -40,7 +40,3 @@ Here’s a snapshot of the Power BI dashboard:
 
 <img width="1226" height="703" alt="Screenshot 2025-08-29 180122" src="https://github.com/user-attachments/assets/2c86da97-1573-4c68-8b1c-edb06c65d89b" />
 
-
-
-   ```bash
-   pip install requests beautifulsoup4 pandas
